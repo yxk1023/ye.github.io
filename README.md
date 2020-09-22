@@ -1,5 +1,5 @@
 # ye.github.io
-```yo 欢迎来到叶叶叶的GitHub(MMY shi wo lao po ```
+```yo 欢迎来到叶叶叶的GitHub ```
 
 
 2020-8-21 修改0.1版  在天壤智能公司电脑
@@ -15,3 +15,5 @@
 2. 新功能     bbbbbbbbb
 3. 新功能     ccccccccc
 4. 新功能     ddddddddd
+
+2020-09-22 开学来学校，刚刚比完数学建模，然后继续学！
